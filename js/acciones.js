@@ -12,7 +12,7 @@
 		});
 		}
 		
-		function getPositon(){
+		function getPosition(){
 			var options={
 				enableHighAccuracy :true,
 				maximumAge:3600000
